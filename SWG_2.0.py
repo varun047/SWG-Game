@@ -33,7 +33,7 @@ if(computer == user_choice):
     print("It's a DRAW!")
 else:
     if(computer==0 and user_choice==1):
-        print("YOU LOSE!")
+        print("HAHAHA, YOU LOSE!")
     elif(computer==0 and user_choice==-1):
         print("YOU WIN!")
     elif(computer==1 and user_choice==-1):
